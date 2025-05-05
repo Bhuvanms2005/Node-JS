@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhuvanms2005/Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhuvanms2005/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Bhuvanms2005/Node-JS#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
